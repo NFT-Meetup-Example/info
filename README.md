@@ -27,21 +27,21 @@ GitHub is a web service for hosting IT projects and their joint development base
 
 If you do not have an account on the GitHub, then you need to [register](https://github.com/signup?source=login).
 
-<img src="/images/Reg_GitHub.png" width="320">
+<img src="/images/Reg_GitHub.png" width="500">
 
 Then you need to [download](https://desktop.github.com/) the desktop version of the GitHub for your operating system. Then install and enter in this program.
 
-<img src="/images/Dun_GitHub.png" width="320">
+<img src="/images/Dun_GitHub.png" width="500">
 
 ### About Cloudflare
 
 You need to have Cloudflare [registration](https://dash.cloudflare.com/login)
 
-<img src="/images/Reg_CloudFlare.png" width="320">
+<img src="/images/Reg_CloudFlare.png" width="500">
 
 Cloudflare is used as a backend for JSON code with links to images.
 
-<img src="/images/CloudFlare.png" width="320">
+<img src="/images/CloudFlare.png" width="700">
 
 ### About Visual Studio Code
 
@@ -49,7 +49,7 @@ Visual Studio Code is a source code editor.
 
 You need to have Visual Studio Code [download](https://code.visualstudio.com/Download)
 
-<img src="/images/Dun_VSC.png" width="320">
+<img src="/images/Dun_VSC.png" width="500">
 
 If you use an anothe code editor, then you can use it.
 
@@ -59,7 +59,7 @@ GIMP is a free raster graphics editor.
 
 You need to have Gimp [download](https://www.gimp.org/)
 
-<img src="/images/Dun_Gimp.png" width="320">
+<img src="/images/Dun_Gimp.png" width="500">
 
 If you use an anothe code editor, then you can use it.
 
@@ -69,7 +69,7 @@ Metamask is this is a crypto wallet.
 
 You need to have Metamask [download](https://metamask.io/)
 
-<img src="/images/Dun_Metamask.png" width="320">
+<img src="/images/Dun_Metamask.png" width="500">
 
 ### About Polygonscan
 
@@ -77,7 +77,7 @@ Polygonscan is used for to validate transactions and validate smart contracts.
 
 You need to have Polygonscan [registration](https://polygonscan.com/register)
 
-<img src="/images/Dun_Polygonscan.png" width="320">
+<img src="/images/Dun_Polygonscan.png" width="500">
 
 ### About Node.js
 
@@ -85,7 +85,7 @@ Node.js is a software platform that transforms JavaScript from a highly speciali
 
 You need to have Node.js [download](https://nodejs.org/en/download/)
 
-<img src="/images/Dun_Nodejs.png" width="320">
+<img src="/images/Dun_Nodejs.png" width="500">
 
  To create a new Node.js project, you might create new folder (e.g. NewProject).
  Then you need to open a terminal or cmd and go to the correct directory:
